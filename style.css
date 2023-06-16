@@ -1,0 +1,36 @@
+.bg {
+  background-image: url("image.jpg");
+
+  height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron {
+  background-color: #a1cda8;
+  width: 100%;
+  height: max-content;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  overflow-x: hidden;
+}
+
+#projects {
+  background-color: #a1cda8;
+}
+
+.crop-img {
+  object-fit: none;
+  object-position: center;
+  width: auto;
+  max-height: 250px;
+}
+
+.footer {
+  background-color: #b5dfca;
+}
