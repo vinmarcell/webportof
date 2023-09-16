@@ -15,6 +15,13 @@
   padding-top: 80px;
 }
 
+.title_project {
+  background-color: #a1cda8;
+  width: fit-content;
+  height: max-content;
+  padding-top: 100px;
+}
+
 body {
   margin: 0;
   height: 100%;
